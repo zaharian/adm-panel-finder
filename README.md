@@ -1,4 +1,4 @@
-#VK = https://vk.com/your.are.a.loser
+VK = https://vk.com/your.are.a.loser
 
 Admin panel finder
 
